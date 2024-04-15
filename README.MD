@@ -21,7 +21,7 @@ To use you new template, just run the follow command:
 ```bash
 dotnet new <project_shortName> -o <your_project>
 ```
-[INFO] - You can fin the project's shortName in the JSON file called **template.json** inside template.config folder.
+[INFO] - You can find the project's shortName in the JSON file called **template.json** inside template.config folder.
 
 Now enjoy your new project without doing everything from scratch! 😉
 ## License
