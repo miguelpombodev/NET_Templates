@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Miguel Pombo",
+  "classifications": ["Console"],
+  "identity": "DapperConsoleApp",
+  "name": "DapperConsoleApp",
+  "shortName": "dappercon",
+  "tags": {
+    "type": "project",
+    "language": "C#"
+  },
+  "sourceName": "ConsoleDapperTemplate"
+}
